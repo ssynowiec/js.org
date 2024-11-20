@@ -1931,6 +1931,7 @@ var cnames_active = {
   "medium-converter": "gunar.github.io/medium-converter", // noCF
   "meed": "pinjasaur.github.io/meed",
   "mega": "qgustavor.github.io/megajs-docs",
+  "meet": "cname.vercel-dns.com", // noCF
   "megdb": "megalithoffical.github.io",
   "meiosis": "foxdonut.github.io/meiosis", // noCF? (don´t add this in a new PR)
   "melies-hugo": "cristinafsanz.github.io/melies-hugo",
